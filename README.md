@@ -128,7 +128,7 @@
    looking for maximum polish, dedicated technical support, and expanded features (like genetic algorithms for graph
    sorting, or Nanite budgeting), the complete versions of these tools are available via the marketplace.
 
-   **➡️ [View my current UE5 catalog on Fab]([https://linktr.ee/agregori](https://www.fab.com/sellers/GregOrigin))**
+   **➡️ [View my current UE5 catalog on Fab](https://www.fab.com/sellers/GregOrigin)**
 
    <br/>
 
