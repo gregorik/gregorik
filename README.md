@@ -81,7 +81,7 @@
      </tr>
      <tr>
         <td width="50%" align="center">
-         <a href="https://github.com/gregorik/PSOAutopilot">
+         <a href="https://github.com/gregorik/PSO-Autopilot">
            <img src="assets/thumb-pso.jpg" width="100%" alt="PSO Autopilot"/>
          </a>
          <br />
@@ -93,7 +93,7 @@
          <img src="https://img.shields.io/github/stars/gregorik/PSOAutopilot?style=social" alt="Stars"/>
        </td>
        <td width="50%" align="center">
-         <a href="https://github.com/gregorik/SyncShield">
+         <a href="https://github.com/gregorik/SyncShield-Core">
            <img src="assets/thumb-syncshield.jpg" width="100%" alt="SyncShield"/>
          </a>
          <br />
