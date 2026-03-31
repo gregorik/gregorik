@@ -19,7 +19,7 @@
    handle. My work focuses on **Runtime Procedural Generation**, **Custom Physics/Gravity Solvers**, and **Memory-Safe
    Asynchronous Tooling**.
 
-   The repositories below are the Open Source "Core" versions of my professional, production-ready Fab plugins. They
+   Some of the repositories below are the Open Source "Core" versions of my production-ready Pro Fab plugins. They
    are designed to act as highly optimized, lightweight alternatives for the UE developer community.
 
    ---
