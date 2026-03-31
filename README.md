@@ -90,7 +90,7 @@
          <i>Memory-safe chunking and time-sliced Game Thread yielding for automated Unreal Engine Shader Pipeline Cache
    collection.</i>
          <br />
-         <img src="https://img.shields.io/github/stars/gregorik/PSOAutopilot?style=social" alt="Stars"/>
+         <img src="https://img.shields.io/github/stars/gregorik/PSO-Autopilot?style=social" alt="Stars"/>
        </td>
        <td width="50%" align="center">
          <a href="https://github.com/gregorik/SyncShield-Core">
@@ -102,6 +102,7 @@
          <i>Headless Git integration that intercepts dirty packages and provides strict file-locking protection to
    prevent team merge conflicts.</i>
          <br />
+         <img src="https://img.shields.io/github/stars/gregorik/SyncShield-Core?style=social" alt="Stars"/>
        </td>
      </tr>
    </table>
