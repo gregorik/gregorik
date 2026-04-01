@@ -1,14 +1,14 @@
 <div align="center">
 
-   # Andras Gregori (GregOrigin)
-   **Unreal Engine, C++, C# Architect | Engine Level Systems | Procedural Generation**
+   # Andras Gregori @ GregOrigin
+   **Unreal Engine, C++, C# Architecture | Engine Level Systems | Procedural Generation**
 
    [![Website](https://img.shields.io/badge/Website-GregOrigin.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gregorigin.com)
    [![Patreon](https://img.shields.io/badge/Support_on-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)   ](https://www.patreon.com/gregorigin)
    [![Linktree](https://img.shields.io/badge/Linktree-Links-43E660?style=for-the-badge&logo=linktree&logoColor=white)](   https://linktr.ee/agregori)
 
-   *I build high-performance, purist C++ systems for Unreal Engine 5, no blueprint spaghetti nor bloat, just ruthless
-   optimization and native engine integration.*
+   *1. I build high-performance, purist C++ systems for Unreal Engine 5.5+, no blueprint or bloat, 100% optimization and native engine integration.*<br>
+   *2. I build FOSS native Windows 11 apps and wrappers for the community & my personal daily use.*
 
    </div>
 
