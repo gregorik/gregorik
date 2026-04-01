@@ -110,10 +110,10 @@
 
    ---
 
-   ### ⚙️ Technical Stack & Expertise
+   ### ⚙️ Technical Stack & Experience
 
-   *   **Languages:** `C++20`, `HLSL/GLSL`, `C#`, `Python`
-   *   **Game Engine:** `Unreal Engine 5.4 - 5.7` (Source Builds, UBT, UAT, Plugin Architecture)
+   *   **Languages:** `C++20`, `HLSL/GLSL`, `C#`, `Python`, `TypeScript`, `PHP`
+   *   **Game Engine:** `Unreal Engine 5.4 - 5.8` (Source Builds, UBT, UAT, Plugin Architecture)
    *   **Core Systems:**
        *   Asynchronous Multithreading (TaskGraph, FMonitoredProcess)
        *   Dynamic/Procedural Mesh Generation (UDynamicMeshComponent, Voxels)
@@ -125,9 +125,7 @@
 
    ### 🤝 The "Pro" Ecosystem
 
-   The repositories hosted here represent the foundation of my work. For studios, solo-devs, and enterprise teams
-   looking for maximum polish, dedicated technical support, and expanded features (like genetic algorithms for graph
-   sorting, or Nanite budgeting), the complete versions of these tools are available via the marketplace.
+   Some of the UE5 repositories hosted here represent the foundation of what I work on. For studios or solo-devs looking for more advanced features, polish, and dedicated technical support, the Pro versions of these tools are available via the marketplace.
 
    **➡️ [View my current UE5 catalog on Fab](https://www.fab.com/sellers/GregOrigin)**
 
