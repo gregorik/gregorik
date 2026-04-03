@@ -15,7 +15,7 @@
 
    ---
 
-   ### 🛡️ Engineering Philosophy
+   ### 🛡️ Introduction
    I specialize in solving hard-tech problems within the Unreal Engine ecosystem that standard Blueprints cannot
    handle. My work focuses on **Runtime Procedural Generation**, **Custom Physics/Gravity Solvers**, and **Memory-Safe
    Asynchronous Tooling**.
