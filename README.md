@@ -22,8 +22,8 @@
 
    For integration, implementation or custom Unreal / C++ / C# work requests, [contact me](https://gregorigin.com/contact.html).
 
-   Some of the repositories below are the Open Source "Core" versions of my production-ready Pro Fab plugins. They
-   are designed to act as highly optimized, lightweight alternatives for the UE developer community.
+   Some of the repositories below are the FOSS Core versions of my production-ready Pro Fab plugins. They
+   are designed to act as optimized, lightweight alternatives for the UE developer community.
 
    ---
 
