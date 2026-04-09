@@ -7,9 +7,9 @@
    [![Patreon](https://img.shields.io/badge/Support_on-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)   ](https://www.patreon.com/gregorigin)
    [![Linktree](https://img.shields.io/badge/Linktree-Links-43E660?style=for-the-badge&logo=linktree&logoColor=white)](   https://linktr.ee/agregori)
 
-   *1. I build high-performance, purist C++ systems for Unreal Engine 5.5+, 0% blueprint, 100% optimization and native engine integration.*<br>
-   *2. I build FOSS native Windows 11 apps and wrappers for the community & my personal daily use.* <br>
-   *3. I experiment with FOSS SaaS using TypeScript, Laravel, PHP, C#.*
+   *1. Building high-performance, purist C++ systems for Unreal Engine 5.5+, 0% blueprint, 100% optimization and native engine integration.*<br>
+   *2. Building FOSS native Windows 11 apps and wrappers for the community & my personal daily use.* <br>
+   *3. Experimenting with FOSS SaaS using TypeScript, Laravel, PHP, C#.*
 
    </div>
 
