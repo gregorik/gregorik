@@ -2,7 +2,7 @@
 
 # Andras Gregori @ GregOrigin
 
-**Unreal Engine C++ engineer. I fix UE5 stutter and get Unreal Android games through Google Play.**
+**UE, C++ mostly.**
 
 [![Hire me](https://img.shields.io/badge/Hire_me-Get_a_fixed_quote-10b981?style=for-the-badge)](https://gregorigin.com/contact.html)
 [![Website](https://img.shields.io/badge/Website-GregOrigin.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gregorigin.com)
